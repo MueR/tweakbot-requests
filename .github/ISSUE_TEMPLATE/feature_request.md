@@ -1,20 +1,17 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Nieuwe feature voor Tweakbot
 title: ''
 labels: feature request
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Beschrijf de feature request**
+Wees zo duidelijk mogelijk over de feature en het verwachte resultaat.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Is deze feature request gerelateerd aan een probleem? Zo ja, beschrijf het probleem.**
+Geef een duidelijke beschrijving van het probleem.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Extra informatie?**
+Geef eventueel extra informatie die nuttig kan zijn om deze Feature Request te behandelen.
