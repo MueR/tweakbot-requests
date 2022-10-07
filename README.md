@@ -1,5 +1,5 @@
 # Tweakbot
-[![Bot-build](https://github.com/MueR/tweakbot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MueR/tweakbot/actions/workflows/docker-image.yml) [![Version](https://img.shields.io/github/release/MueR/tweakbot.svg)](https://github.com/MueR/tweakbot-requests/)
+[![Bot-build](https://github.com/MueR/tweakbot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MueR/tweakbot/actions/workflows/docker-image.yml)
 
 [![Site-build](https://github.com/MueR/tweakbot.nl/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MueR/tweakbot.nl/actions/workflows/docker-image.yml)
 
