@@ -1,6 +1,7 @@
 # tweakbot-requests
-Tweakbot: [![build](https://github.com/MueR/tweakbot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MueR/tweakbot/actions/workflows/docker-image.yml) 
-Tweakbot.nl [![build](https://github.com/MueR/tweakbot.nl/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MueR/tweakbot.nl/actions/workflows/docker-image.yml)
+Bot: [![build](https://github.com/MueR/tweakbot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MueR/tweakbot/actions/workflows/docker-image.yml) 
+
+Site: [![build](https://github.com/MueR/tweakbot.nl/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MueR/tweakbot.nl/actions/workflows/docker-image.yml)
 
 
 Feature requests en bugreports voor Tweakbot
